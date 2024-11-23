@@ -104,10 +104,6 @@ ID: 1, Nome: João da Silva, Email: joao@exemplo.com, Telefone: 123456789
 - **Validação de Entrada**: Adicionar validações para garantir que os dados inseridos pelo usuário sejam válidos (ex: formato correto de e-mail, número de telefone válido).
 - **Interface Gráfica**: Desenvolver uma interface gráfica para tornar a interação com o usuário mais amigável.
 
-## Licença
-
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
 ---
 
 Feito por [Matheus](https://github.com/matheusphb)
